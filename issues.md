@@ -1,0 +1,6 @@
+- The styling of the query section in the matches site is not consistent with the rest of the application (it is the raw html base styling)
+- The links should be not only valid for one year but also infnitely many times usable in this year
+- When he tournament has started the sorting of the home page should be matches, groups and then entries last
+- Add the function for the admin to create and download (as pdf) QR codes as entry for the page (this is put at the tennis place and should minimize the clicks needed to get started)
+- Communicate on the login page that only one (the main email) per person should be used
+- When someone wants to create a user (with a new email) with a first and last name that is already existent one should not be able to do that (make first + last name also unique) but instead get the tip to put a number after the last name like Thomas Meyer2
